@@ -3606,6 +3606,16 @@
     "website": "https://advocat.live",
     "twitter": "@notacatcoin" 
   },
+   { "symbol": "You Are Beautiful",
+    "displayName": "You Are Beautiful",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "iDGPT9SS3WPqA67eqW2M2pgab87d2YYpsbTTuDqroVF",
+    "ogImage": "/realms/YouAreBeautifulGov/img/Logo.jpg",
+    "bannerImage": "/realms/YouAreBeautifulGov/img/Banner.jpg",
+    "website": "https://youarebeautiful.eth.limo/",
+    "keywords": "YAB, YouAreBeautifulGov, You Are Beautiful, YouAreBeautiful",
+    "twitter": "@youarebeautifhd" 
+  },
   { 
     "symbol": "FOXTAG",
     "displayName": "$SOLFOX Official DAO",
